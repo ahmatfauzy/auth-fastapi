@@ -1,0 +1,9 @@
+fastapi[standard]
+sqlalchemy
+asyncpg
+pydantic
+pydantic-settings
+bcrypt
+PyJWT
+python-multipart
+email-validator
